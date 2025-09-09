@@ -1,0 +1,76 @@
+train_id,route,compatible,reason
+T01,L1,yes,fully compatible
+T01,L2,yes,fully compatible
+T01,L3,no,platform too short
+T02,L1,yes,fully compatible
+T02,L2,no,signalling mismatch
+T02,L3,yes,fully compatible
+T03,L1,yes,fully compatible
+T03,L2,yes,fully compatible
+T03,L3,yes,fully compatible
+T04,L1,no,power system mismatch
+T04,L2,yes,fully compatible
+T04,L3,yes,fully compatible
+T05,L1,yes,fully compatible
+T05,L2,yes,fully compatible
+T05,L3,no,platform height mismatch
+T06,L1,yes,fully compatible
+T06,L2,yes,fully compatible
+T06,L3,yes,fully compatible
+T07,L1,yes,fully compatible
+T07,L2,no,signalling incompatible
+T07,L3,yes,fully compatible
+T08,L1,no,door configuration mismatch
+T08,L2,yes,fully compatible
+T08,L3,yes,fully compatible
+T09,L1,yes,fully compatible
+T09,L2,yes,fully compatible
+T09,L3,yes,fully compatible
+T10,L1,yes,fully compatible
+T10,L2,yes,fully compatible
+T10,L3,no,tunnel clearance issue
+T11,L1,yes,fully compatible
+T11,L2,no,power supply voltage mismatch
+T11,L3,yes,fully compatible
+T12,L1,yes,fully compatible
+T12,L2,yes,fully compatible
+T12,L3,yes,fully compatible
+T13,L1,no,axle load too heavy
+T13,L2,yes,fully compatible
+T13,L3,yes,fully compatible
+T14,L1,yes,fully compatible
+T14,L2,yes,fully compatible
+T14,L3,yes,fully compatible
+T15,L1,yes,fully compatible
+T15,L2,yes,fully compatible
+T15,L3,no,communication system incompatible
+T16,L1,no,gauge incompatible
+T16,L2,yes,fully compatible
+T16,L3,yes,fully compatible
+T17,L1,yes,fully compatible
+T17,L2,yes,fully compatible
+T17,L3,yes,fully compatible
+T18,L1,yes,fully compatible
+T18,L2,no,platform edge door mismatch
+T18,L3,yes,fully compatible
+T19,L1,yes,fully compatible
+T19,L2,yes,fully compatible
+T19,L3,yes,fully compatible
+T20,L1,yes,fully compatible
+T20,L2,yes,fully compatible
+T20,L3,no,brake system incompatible
+T21,L1,no,traction system mismatch
+T21,L2,yes,fully compatible
+T21,L3,yes,fully compatible
+T22,L1,yes,fully compatible
+T22,L2,yes,fully compatible
+T22,L3,yes,fully compatible
+T23,L1,yes,fully compatible
+T23,L2,no,signalling protocol outdated
+T23,L3,yes,fully compatible
+T24,L1,yes,fully compatible
+T24,L2,yes,fully compatible
+T24,L3,yes,fully compatible
+T25,L1,yes,fully compatible
+T25,L2,yes,fully compatible
+T25,L3,no,pantograph height mismatch

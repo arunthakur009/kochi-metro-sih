@@ -1,0 +1,147 @@
+train_id,advertiser,hours_required,hours_done,contract_end,priority
+T01,Vodafone,320,245,2025-10-15,medium
+T01,McDonald's,180,165,2025-11-22,low
+T02,HDFC Bank,450,89,2025-09-28,high
+T03,Coca-Cola,380,312,2025-12-01,low
+T04,Samsung,275,198,2025-10-08,medium
+T04,Zomato,150,45,2025-09-25,high
+T05,Airtel,400,367,2025-11-18,low
+T06,Pepsi,220,78,2025-09-30,high
+T07,ICICI Bank,350,289,2025-10-12,medium
+T07,Swiggy,125,112,2025-11-05,low
+T08,Tata Motors,480,156,2025-10-02,high
+T09,Flipkart,300,267,2025-11-30,low
+T10,Reliance Jio,425,198,2025-09-22,high
+T10,Domino's Pizza,165,147,2025-10-28,low
+T11,Asian Paints,200,154,2025-12-10,low
+T12,Amazon,375,312,2025-11-15,low
+T12,Paytm,180,67,2025-09-18,high
+T13,Bajaj Auto,290,245,2025-10-25,medium
+T14,ITC,340,298,2025-12-05,low
+T15,Axis Bank,415,123,2025-09-27,high
+T15,Netflix,120,98,2025-11-08,low
+T16,Hindustan Unilever,360,289,2025-10-30,medium
+T17,Mahindra,250,78,2025-09-20,high
+T18,PhonePe,195,167,2025-11-25,low
+T18,KFC,135,119,2025-10-18,low
+T19,SBI,440,367,2025-12-02,low
+T20,Hero MotoCorp,310,89,2025-09-24,high
+T21,Myntra,280,234,2025-11-12,low
+T21,Burger King,145,78,2025-09-29,high
+T22,L&T,395,298,2025-10-20,medium
+T23,Maruti Suzuki,425,345,2025-12-08,low
+T24,OYO,175,123,2025-10-05,medium
+T24,Starbucks,110,89,2025-11-20,low
+T25,Titan,265,198,2025-09-26,high
+T01,Nike,190,156,2025-11-03,low
+T02,Adidas,220,67,2025-09-19,high
+T03,Puma,160,134,2025-10-15,low
+T04,Reebok,180,145,2025-11-28,low
+T05,Apple,500,234,2025-10-01,high
+T06,OnePlus,290,256,2025-11-16,low
+T07,Xiaomi,240,189,2025-10-22,medium
+T08,Vivo,210,78,2025-09-21,high
+T09,Oppo,195,167,2025-11-09,low
+T10,Realme,170,134,2025-10-12,medium
+T11,Microsoft,380,298,2025-12-03,low
+T12,Google,450,389,2025-11-27,low
+T13,Meta,320,89,2025-09-23,high
+T14,Tesla,400,345,2025-12-07,low
+T15,Uber,225,178,2025-10-28,medium
+T16,Ola,205,156,2025-11-11,low
+T17,BookMyShow,155,89,2025-09-30,high
+T18,MakeMyTrip,280,234,2025-10-16,medium
+T19,Goibibo,170,145,2025-11-24,low
+T20,RedBus,135,98,2025-10-08,low
+T21,BigBasket,245,78,2025-09-25,high
+T22,Grofers,190,167,2025-11-14,low
+T23,Blinkit,160,134,2025-10-20,medium
+T24,Dunzo,125,89,2025-11-02,low
+T25,Urban Company,210,156,2025-09-28,high
+T01,Nykaa,185,145,2025-12-01,low
+T02,Myntra Fashion,230,78,2025-09-27,high
+T03,Ajio,175,134,2025-10-25,medium
+T04,Jabong,140,123,2025-11-19,low
+T05,Lifestyle,265,198,2025-10-14,medium
+T06,Shoppers Stop,195,156,2025-11-08,low
+T07,Pantaloons,150,67,2025-09-22,high
+T08,Big Bazaar,220,189,2025-10-30,medium
+T09,More Megastore,180,145,2025-12-05,low
+T10,Spencer's,160,134,2025-11-13,low
+T11,Reliance Fresh,240,78,2025-09-24,high
+T12,DMart,280,234,2025-10-18,medium
+T13,StarQuik,135,98,2025-11-21,low
+T14,Zepto,195,167,2025-10-07,low
+T15,Instamart,170,89,2025-09-29,high
+T16,FreshToHome,205,156,2025-11-17,low
+T17,Licious,155,134,2025-10-26,medium
+T18,Country Delight,125,89,2025-12-04,low
+T19,Milk Basket,145,123,2025-11-06,low
+T20,Daily Ninja,110,67,2025-09-26,high
+T21,BYJU'S,350,289,2025-10-13,medium
+T22,Unacademy,290,234,2025-11-25,low
+T23,Vedantu,225,78,2025-09-20,high
+T24,WhiteHat Jr,185,156,2025-10-29,low
+T25,Toppr,160,134,2025-12-08,low
+T01,UpGrad,240,198,2025-11-12,low
+T02,Simplilearn,200,89,2025-09-28,high
+T03,Coursera,175,145,2025-10-17,medium
+T04,Udemy,150,123,2025-11-23,low
+T05,Khan Academy,130,98,2025-10-11,low
+T06,Duolingo,115,67,2025-09-25,high
+T07,Babbel,140,89,2025-11-29,low
+T08,Rosetta Stone,165,134,2025-10-21,medium
+T09,Skill Academy,190,156,2025-12-06,low
+T10,TechGig,170,145,2025-11-15,low
+T11,HackerRank,155,78,2025-09-23,high
+T12,CodeChef,125,89,2025-10-24,low
+T13,GeeksforGeeks,180,134,2025-11-26,medium
+T14,InterviewBit,145,123,2025-10-09,low
+T15,LeetCode,135,98,2025-12-02,low
+T16,Hackerearth,160,67,2025-09-27,high
+T17,Pluralsight,205,167,2025-11-10,low
+T18,LinkedIn Learning,240,198,2025-10-19,medium
+T19,MasterClass,220,189,2025-12-09,low
+T20,Skillshare,175,145,2025-11-04,low
+T21,Udacity,285,78,2025-09-21,high
+T22,edX,195,156,2025-10-27,medium
+T23,FutureLearn,165,134,2025-11-18,low
+T24,Canvas,150,123,2025-10-06,low
+T25,Blackboard,125,89,2025-12-03,low
+T01,Zoom,210,167,2025-11-07,low
+T02,Teams,245,98,2025-09-24,high
+T03,Slack,180,145,2025-10-23,medium
+T04,Discord,160,134,2025-11-21,low
+T05,Skype,135,123,2025-10-12,low
+T06,WhatsApp Business,115,67,2025-09-26,high
+T07,Telegram,140,89,2025-11-30,low
+T08,Signal,125,98,2025-10-28,low
+T09,Viber,110,78,2025-12-01,low
+T10,WeChat,155,134,2025-11-16,low
+T11,Line,170,89,2025-09-22,high
+T12,KakaoTalk,145,123,2025-10-31,medium
+T13,Snapchat,265,198,2025-11-24,medium
+T14,Instagram,320,289,2025-12-07,low
+T15,Facebook,380,156,2025-09-28,high
+T16,Twitter,290,234,2025-10-15,medium
+T17,TikTok,245,198,2025-11-22,low
+T18,YouTube,425,345,2025-12-05,low
+T19,LinkedIn,310,267,2025-10-18,medium
+T20,Pinterest,205,167,2025-11-13,low
+T21,Reddit,175,78,2025-09-25,high
+T22,Tumblr,150,123,2025-10-26,low
+T23,Quora,180,145,2025-11-28,low
+T24,Medium,160,134,2025-10-14,medium
+T25,Substack,135,89,2025-12-04,low
+T01,Spotify,225,189,2025-11-11,low
+T02,Apple Music,200,67,2025-09-29,high
+T03,YouTube Music,185,156,2025-10-22,medium
+T04,Amazon Music,170,145,2025-11-26,low
+T05,JioSaavn,155,123,2025-10-10,low
+T06,Gaana,140,89,2025-12-08,low
+T07,Wynk Music,125,98,2025-11-05,low
+T08,Hungama Music,115,78,2025-09-27,high
+T09,SoundCloud,195,167,2025-10-24,medium
+T10,Pandora,180,134,2025-11-19,low
+T11,Deezer,165,145,2025-10-16,medium
+T12,Tidal,150,123,2025-12-06,low

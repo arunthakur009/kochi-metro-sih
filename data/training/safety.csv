@@ -1,0 +1,176 @@
+train_id,timestamp,sensor_type,fault,severity,description
+T01,2025-09-08 09:15:23,brake,no,low,brake system normal operation
+T02,2025-09-08 09:16:45,door,no,low,door sensors functioning normally
+T03,2025-09-08 09:17:12,HVAC,yes,medium,HVAC unit temperature slightly elevated
+T04,2025-09-08 09:18:33,signalling,no,low,signal transmission clear
+T05,2025-09-08 09:19:47,power,no,low,power supply stable
+T06,2025-09-08 09:20:18,brake,yes,critical,brake pressure drop detected
+T07,2025-09-08 09:21:29,door,no,low,door mechanism operating smoothly
+T08,2025-09-08 09:22:41,HVAC,no,low,climate control within parameters
+T09,2025-09-08 09:23:55,signalling,yes,high,signal interference detected
+T10,2025-09-08 09:24:17,power,yes,medium,voltage fluctuation observed
+T11,2025-09-08 09:25:38,brake,no,low,brake pads wear within limits
+T12,2025-09-08 09:26:52,door,yes,low,door sensor calibration drift
+T13,2025-09-08 09:27:14,HVAC,no,low,air filtration system normal
+T14,2025-09-08 09:28:26,signalling,no,low,communication systems operational
+T15,2025-09-08 09:29:43,power,no,low,electrical systems nominal
+T16,2025-09-08 09:30:55,brake,yes,high,brake fluid level low
+T17,2025-09-08 09:31:18,door,no,low,door lock mechanisms secure
+T18,2025-09-08 09:32:27,HVAC,yes,critical,HVAC compressor failure
+T19,2025-09-08 09:33:44,signalling,no,low,antenna systems functioning
+T20,2025-09-08 09:34:56,power,no,low,battery charge levels normal
+T21,2025-09-08 09:35:12,brake,no,low,brake disc temperature normal
+T22,2025-09-08 09:36:33,door,yes,medium,door stuck partially open
+T23,2025-09-08 09:37:47,HVAC,no,low,ventilation fans operating
+T24,2025-09-08 09:38:58,signalling,yes,medium,GPS signal weak
+T25,2025-09-08 09:40:15,power,yes,high,alternator output irregular
+T01,2025-09-08 09:41:22,door,no,low,door safety sensors active
+T02,2025-09-08 09:42:38,HVAC,no,low,cabin temperature stable
+T03,2025-09-08 09:43:51,signalling,no,low,radio communication clear
+T04,2025-09-08 09:44:17,power,no,low,main power bus normal
+T05,2025-09-08 09:45:29,brake,yes,critical,emergency brake malfunction
+T06,2025-09-08 09:46:44,door,no,low,door pressure seals intact
+T07,2025-09-08 09:47:56,HVAC,yes,low,filter replacement needed
+T08,2025-09-08 09:48:13,signalling,no,low,beacon systems operational
+T09,2025-09-08 09:49:25,power,no,low,power distribution normal
+T10,2025-09-08 09:50:42,brake,no,low,brake system diagnostics pass
+T11,2025-09-08 09:51:58,door,yes,high,door motor overheating
+T12,2025-09-08 09:52:14,HVAC,no,low,air conditioning normal
+T13,2025-09-08 09:53:36,signalling,yes,medium,signal relay intermittent
+T14,2025-09-08 09:54:47,power,no,low,generator performance stable
+T15,2025-09-08 09:55:19,brake,yes,medium,brake pad wear indicator
+T16,2025-09-08 09:56:31,door,no,low,door alignment correct
+T17,2025-09-08 09:57:48,HVAC,no,low,heating elements functional
+T18,2025-09-08 09:58:52,signalling,no,low,track circuit normal
+T19,2025-09-08 09:59:17,power,yes,critical,power transformer fault
+T20,2025-09-08 10:00:28,brake,no,low,hydraulic pressure stable
+T21,2025-09-08 10:01:41,door,no,low,pneumatic door system ok
+T22,2025-09-08 10:02:55,HVAC,yes,high,HVAC overheating detected
+T23,2025-09-08 10:03:12,signalling,no,low,wireless systems active
+T24,2025-09-08 10:04:29,power,no,low,electrical load balanced
+T25,2025-09-08 10:05:43,brake,no,low,brake cooling system normal
+T01,2025-09-08 10:06:58,door,yes,medium,door seal degradation
+T02,2025-09-08 10:07:15,HVAC,no,low,climate sensors accurate
+T03,2025-09-08 10:08:32,signalling,yes,low,antenna alignment off
+T04,2025-09-08 10:09:44,power,no,low,backup power ready
+T05,2025-09-08 10:10:57,brake,yes,high,brake cylinder leak
+T06,2025-09-08 10:11:18,door,no,low,door control system normal
+T07,2025-09-08 10:12:35,HVAC,no,low,fan motor speed normal
+T08,2025-09-08 10:13:47,signalling,no,low,data transmission stable
+T09,2025-09-08 10:14:52,power,yes,medium,capacitor bank aging
+T10,2025-09-08 10:15:19,brake,no,low,brake response time normal
+T11,2025-09-08 10:16:33,door,no,low,door emergency release ok
+T12,2025-09-08 10:17:46,HVAC,yes,critical,refrigerant leak detected
+T13,2025-09-08 10:18:58,signalling,no,low,control signals clear
+T14,2025-09-08 10:19:14,power,no,low,circuit breakers normal
+T15,2025-09-08 10:20:27,brake,no,low,brake force distribution ok
+T16,2025-09-08 10:21:39,door,yes,high,door actuator failure
+T17,2025-09-08 10:22:51,HVAC,no,low,thermostat calibration good
+T18,2025-09-08 10:23:16,signalling,yes,medium,communication timeout
+T19,2025-09-08 10:24:28,power,no,low,voltage regulator stable
+T20,2025-09-08 10:25:42,brake,yes,critical,brake line rupture
+T21,2025-09-08 10:26:54,door,no,low,door limit switches active
+T22,2025-09-08 10:27:17,HVAC,no,low,air circulation adequate
+T23,2025-09-08 10:28:31,signalling,no,low,position reporting normal
+T24,2025-09-08 10:29:45,power,yes,high,inverter malfunction
+T25,2025-09-08 10:30:58,brake,no,low,anti-lock system functional
+T01,2025-09-08 10:31:12,door,no,low,door obstruction sensors clear
+T02,2025-09-08 10:32:24,HVAC,yes,medium,compressor pressure high
+T03,2025-09-08 10:33:38,signalling,no,low,transponder responding
+T04,2025-09-08 10:34:51,power,no,low,power quality monitoring ok
+T05,2025-09-08 10:35:15,brake,yes,medium,brake temperature elevated
+T06,2025-09-08 10:36:27,door,yes,low,door timing adjustment needed
+T07,2025-09-08 10:37:42,HVAC,no,low,humidity control normal
+T08,2025-09-08 10:38:54,signalling,yes,critical,signal processor down
+T09,2025-09-08 10:39:18,power,no,low,harmonic distortion low
+T10,2025-09-08 10:40:31,brake,no,low,brake wear sensors normal
+T11,2025-09-08 10:41:44,door,no,low,door frame integrity good
+T12,2025-09-08 10:42:57,HVAC,no,low,defrost system operational
+T13,2025-09-08 10:43:19,signalling,yes,medium,interference pattern detected
+T14,2025-09-08 10:44:32,power,yes,critical,main fuse blown
+T15,2025-09-08 10:45:46,brake,no,low,brake assist system active
+T16,2025-09-08 10:46:58,door,no,low,door gasket condition good
+T17,2025-09-08 10:47:14,HVAC,yes,high,cooling system overload
+T18,2025-09-08 10:48:26,signalling,no,low,receiver sensitivity normal
+T19,2025-09-08 10:49:39,power,no,low,power factor correction on
+T20,2025-09-08 10:50:52,brake,yes,high,brake caliper seizure
+T21,2025-09-08 10:51:17,door,yes,medium,door warning light fault
+T22,2025-09-08 10:52:29,HVAC,no,low,ventilation dampers open
+T23,2025-09-08 10:53:42,signalling,no,low,satellite link established
+T24,2025-09-08 10:54:55,power,no,low,surge protection active
+T25,2025-09-08 10:55:18,brake,no,low,brake pedal sensor normal
+T01,2025-09-08 10:56:31,door,no,low,door spring tension correct
+T02,2025-09-08 10:57:44,HVAC,no,low,heat exchanger efficiency ok
+T03,2025-09-08 10:58:57,signalling,yes,low,signal strength marginal
+T04,2025-09-08 10:59:12,power,yes,medium,rectifier diode failure
+T05,2025-09-08 11:00:25,brake,yes,critical,master cylinder failure
+T06,2025-09-08 11:01:38,door,no,low,door interlock system secure
+T07,2025-09-08 11:02:51,HVAC,no,low,blower motor current normal
+T08,2025-09-08 11:03:16,signalling,no,low,protocol handshake success
+T09,2025-09-08 11:04:29,power,no,low,load sharing balanced
+T10,2025-09-08 11:05:42,brake,no,low,brake booster pressure good
+T11,2025-09-08 11:06:55,door,yes,high,door panel misalignment
+T12,2025-09-08 11:07:18,HVAC,yes,medium,thermostat drift detected
+T13,2025-09-08 11:08:31,signalling,no,low,error correction active
+T14,2025-09-08 11:09:44,power,no,low,insulation resistance high
+T15,2025-09-08 11:10:57,brake,yes,medium,brake hose bulging
+T16,2025-09-08 11:11:12,door,no,low,door travel limits set
+T17,2025-09-08 11:12:25,HVAC,no,low,condensate drain clear
+T18,2025-09-08 11:13:38,signalling,yes,critical,base station offline
+T19,2025-09-08 11:14:51,power,yes,high,transformer overheating
+T20,2025-09-08 11:15:17,brake,no,low,brake vacuum adequate
+T21,2025-09-08 11:16:30,door,no,low,door force limiter active
+T22,2025-09-08 11:17:43,HVAC,no,low,refrigerant level normal
+T23,2025-09-08 11:18:56,signalling,no,low,checksum validation pass
+T24,2025-09-08 11:19:18,power,no,low,frequency regulation stable
+T25,2025-09-08 11:20:31,brake,yes,high,brake disc warping
+T01,2025-09-08 11:21:44,door,yes,low,door sensor dust buildup
+T02,2025-09-08 11:22:57,HVAC,yes,critical,compressor seized
+T03,2025-09-08 11:23:12,signalling,no,low,encryption key valid
+T04,2025-09-08 11:24:25,power,no,low,phase sequence correct
+T05,2025-09-08 11:25:38,brake,no,low,brake light switch ok
+T06,2025-09-08 11:26:51,door,no,low,door rubber seal flexible
+T07,2025-09-08 11:27:17,HVAC,no,low,evaporator coil clean
+T08,2025-09-08 11:28:30,signalling,yes,medium,packet loss detected
+T09,2025-09-08 11:29:43,power,yes,critical,circuit board failure
+T10,2025-09-08 11:30:56,brake,no,low,brake reservoir level ok
+T11,2025-09-08 11:31:18,door,no,low,door edge protection active
+T12,2025-09-08 11:32:31,HVAC,no,low,cabin air quality good
+T13,2025-09-08 11:33:44,signalling,no,low,buffer memory available
+T14,2025-09-08 11:34:57,power,no,low,ground fault protection on
+T15,2025-09-08 11:35:12,brake,yes,medium,brake fluid contamination
+T16,2025-09-08 11:36:25,door,yes,high,door cable tension loss
+T17,2025-09-08 11:37:38,HVAC,no,low,air flow rate nominal
+T18,2025-09-08 11:38:51,signalling,no,low,retransmission buffer ok
+T19,2025-09-08 11:39:17,power,no,low,neutral current minimal
+T20,2025-09-08 11:40:30,brake,no,low,parking brake engaged
+T21,2025-09-08 11:41:43,door,no,low,door handle mechanism smooth
+T22,2025-09-08 11:42:56,HVAC,yes,medium,fan bearing wear detected
+T23,2025-09-08 11:43:18,signalling,yes,low,signal delay variance
+T24,2025-09-08 11:44:31,power,yes,high,power supply instability
+T25,2025-09-08 11:45:44,brake,yes,critical,air compressor failure
+T01,2025-09-08 11:46:57,door,no,low,door photo-eye sensors clear
+T02,2025-09-08 11:47:12,HVAC,no,low,temperature gradient normal
+T03,2025-09-08 11:48:25,signalling,no,low,modulation depth correct
+T04,2025-09-08 11:49:38,power,no,low,reactive power controlled
+T05,2025-09-08 11:50:51,brake,no,low,brake valve timing accurate
+T06,2025-09-08 11:51:17,door,yes,medium,door closer arm worn
+T07,2025-09-08 11:52:30,HVAC,no,low,system pressure balanced
+T08,2025-09-08 11:53:43,signalling,yes,critical,communication blackout
+T09,2025-09-08 11:54:56,power,no,low,power consumption normal
+T10,2025-09-08 11:55:18,brake,yes,high,brake rotor cracking
+T11,2025-09-08 11:56:31,door,no,low,door weight distribution even
+T12,2025-09-08 11:57:44,HVAC,yes,low,dust filter clogged
+T13,2025-09-08 11:58:57,signalling,no,low,carrier wave stable
+T14,2025-09-08 11:59:12,power,no,low,current balance maintained
+T15,2025-09-08 12:00:25,brake,no,low,brake proportioning valve ok
+T16,2025-09-08 12:01:38,door,no,low,door track lubrication adequate
+T17,2025-09-08 12:02:51,HVAC,no,low,refrigeration cycle normal
+T18,2025-09-08 12:03:17,signalling,yes,medium,network congestion
+T19,2025-09-08 12:04:30,power,yes,critical,electrical fire detected
+T20,2025-09-08 12:05:43,brake,no,low,brake torque sensor calibrated
+T21,2025-09-08 12:06:56,door,yes,high,door frame deformation
+T22,2025-09-08 12:07:18,HVAC,no,low,heat pump efficiency normal
+T23,2025-09-08 12:08:31,signalling,no,low,timing synchronization locked
+T24,2025-09-08 12:09:44,power,no,low,arc fault detection active
+T25,2025-09-08 12:10:57,brake,yes,medium,brake noise level high
