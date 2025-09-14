@@ -6,3 +6,4 @@ xgboost
 seaborn
 pytest
 httpx
+fastapi[all]
