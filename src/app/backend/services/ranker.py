@@ -2,7 +2,7 @@ import pandas as pd
 from fastapi import HTTPException
 from pathlib import Path
 
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "mock_train_data.csv"
+DATA_PATH = Path(__file__).resolve().parent.parent.parent.parent.parent / "data" / "mock" / "mock_train_data.csv"
 
 def get_ranked_trains(limit=None):
     """

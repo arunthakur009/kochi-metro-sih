@@ -3,7 +3,7 @@ from fastapi import HTTPException
 from pathlib import Path
 
 # Build a path relative to this file to find the data
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "mock_train_data.csv"
+DATA_PATH = Path(__file__).resolve().parent.parent.parent.parent.parent / "data" / "mock" / "mock_train_data.csv"
 
 def get_train_features(train_id: str):
     """
